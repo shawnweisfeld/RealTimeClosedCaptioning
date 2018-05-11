@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeClosedCaptioning", "RealTimeClosedCaptioning\RealTimeClosedCaptioning.csproj", "{101EA87F-6031-4245-9A45-BFE4DCC1240C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Debug|x64.ActiveCfg = Debug|x64
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Debug|x64.Build.0 = Debug|x64
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Release|x64.ActiveCfg = Release|x64
+		{101EA87F-6031-4245-9A45-BFE4DCC1240C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2319B611-4DD9-4421-8CD4-74BE2E34A415}
+	EndGlobalSection
+EndGlobal
